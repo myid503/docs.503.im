@@ -1,6 +1,7 @@
 # Table of contents
 
-* [废墟中的法幢](README.md)
+* [灵山一会·讲记](README.md)
+* [废墟中的法幢](fei-xu-zhong-de-fa-zhuang.md)
 * [索达吉堪布简介](suo-da-ji-kan-bu-jian-jie.md)
 
 ## 最近更新 <a id="update"></a>

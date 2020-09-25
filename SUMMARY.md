@@ -15,6 +15,7 @@
   * [《圣大解脱经》第6课](update/sdjtj/sdjtj06.md)
   * [《圣大解脱经》第7课](update/sdjtj/sdjtj07.md)
   * [《圣大解脱经》第8课](update/sdjtj/sdjtj08.md)
+  * [圣大解脱经讲解09](update/sdjtj/sheng-da-jie-tuo-jing-jiang-jie-09.md)
 * [《吉祥经》讲记](update/jxj.md)
 * [《摩邓女经》讲记](update/mdnj.md)
 * [《传授菩萨戒》20200724笔录](update/cspsj20200724.md)

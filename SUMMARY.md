@@ -6,6 +6,15 @@
 
 ## 最近更新 <a id="update"></a>
 
+* [《大乘方广总持经》讲记](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/README.md)
+  * [《大乘方广总持经》第一课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-yi-ke.md)
+  * [《大乘方广总持经》第二课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-er-ke.md)
+  * [《大乘方广总持经》第三课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-san-ke.md)
+  * [《大乘方广总持经》第四课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-si-ke.md)
+  * [《大乘方广总持经》第五课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-wu-ke.md)
+  * [《大乘方广总持经》第六课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-liu-ke.md)
+  * [《大乘方广总持经》第七课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-qi-ke.md)
+  * [《大乘方广总持经》第八课](update/da-cheng-fang-guang-zong-chi-jing-jiang-ji/da-cheng-fang-guang-zong-chi-jing-di-ba-ke.md)
 * [《圣大解脱经》讲记](update/sdjtj/README.md)
   * [《圣大解脱经》第1课](update/sdjtj/sdjtj01.md)
   * [《圣大解脱经》第2课](update/sdjtj/sdjtj02.md)
